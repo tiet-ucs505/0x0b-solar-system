@@ -1,13 +1,5 @@
 # 0x0b : Solar System #
 
-|                  |                             |
-|------------------|-----------------------------|
-| Code             | 0x0b                        |
-| Submission Opens | Wed 1 May 2024 17:00 hrs    |
-| Deadline         | Mon 6 May 2024 08:00 hrs    |
-| Weightage        | 2 marks                     |
-
-
 ## Assignment ##
 
 Use the code-base from Assignment 0x0a (Rotating
