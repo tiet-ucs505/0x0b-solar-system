@@ -1,11 +1,11 @@
 # 0x0b : Solar System #
 
+![](./assets/teaser.png)
+
 ## Assignment ##
 
 Use the code-base from Assignment 0x0a (Rotating
 Colourful Cube) to create a view of the solar system.
-Fork into a separate github repo or create a new one
-for this submission.
 
 1. Choose any one [platonic
    solid](https://en.wikipedia.org/wiki/Platonic_solid#Cartesian_coordinates)
@@ -30,6 +30,12 @@ for this submission.
      go around the moon;
 5. Create a 15-30s short video to highlight your
    efforts.  Upload it to a streaming platform (like
-   youtube) using your official email id
-   (`@thapar.edu`), and share *a public link* within
-   the submission.
+   youtube) and submit *a public link*.
+
+
+## Submit ##
+
+1. Git URL
+2. Commit ID
+3. Teaser
+4. Video Link
